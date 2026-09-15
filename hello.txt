@@ -1,0 +1,4 @@
+this file is created/generated to learn git rebase topic and its commands 
+
+first of all clone the project 
+git clone __project url__
